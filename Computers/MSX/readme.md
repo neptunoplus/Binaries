@@ -1,3 +1,3 @@
 ## MSX
 
-### Needs MXS.VHD on rootSD, no bios needed
+### Needs MSX.VHD on rootSD, no bios needed
