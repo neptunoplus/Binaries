@@ -1,0 +1,5 @@
+[ARC]
+RBF=JTCPS15
+MOD=0
+NAME=WOFCH
+CONF="P1,Switches"

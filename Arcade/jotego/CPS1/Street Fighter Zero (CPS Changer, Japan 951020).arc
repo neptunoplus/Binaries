@@ -1,0 +1,5 @@
+[ARC]
+RBF=JTCPS1
+MOD=0
+NAME=SFZCH
+CONF="P1,Switches"
