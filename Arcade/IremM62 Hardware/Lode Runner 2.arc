@@ -1,0 +1,7 @@
+[ARC]
+RBF=IREMM62
+MOD=1
+NAME=LDRUN2
+CONF="O8,Timer,Slow,Fast"
+CONF="O9,Speed,High,Low"
+CONF="OAB,Lives,3,2,4,5"

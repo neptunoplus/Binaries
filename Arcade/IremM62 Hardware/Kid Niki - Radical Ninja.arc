@@ -1,0 +1,7 @@
+[ARC]
+RBF=IREMM62
+MOD=7
+NAME=KIDNIKI
+CONF="O89,Lives,3,2,4,5"
+CONF="OA,Difficulty,Normal,Hard"
+CONF="OB,Bonus Life,50000,80000"
