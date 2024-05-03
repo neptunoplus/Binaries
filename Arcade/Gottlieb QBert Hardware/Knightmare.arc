@@ -1,0 +1,6 @@
+[ARC]
+RBF=QBERT
+MOD=8
+NAME=KNGTMARE
+CONF="P1,Switches"
+CONF="P1OL,Lives,3,5"

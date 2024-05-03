@@ -1,0 +1,10 @@
+[ARC]
+RBF=QBERT
+MOD=1
+NAME=QBERTQUB
+DEFAULT=0x10000
+CONF="P1,Switches"
+CONF="P1OJ,Demo Sounds,On,Off"
+CONF="P1OH,Bonus Life,10000,15000"
+CONF="P1OM,Extra Bonus Life,20000,25000"
+CONF="P1ON,Difficulty,Normal,Hard"

@@ -1,0 +1,8 @@
+[ARC]
+RBF=QBERT
+MOD=5
+NAME=TYLZ
+DEFAULT=0x10000
+CONF="P1,Switches"
+CONF="P1OK,Demo Sounds,On,Off"
+CONF="P1OJ,Lives,3,5"
