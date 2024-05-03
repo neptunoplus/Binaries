@@ -1,0 +1,13 @@
+[ARC]
+RBF=BANKPANIC
+MOD=0
+NAME=BANKP
+DEFAULT=0xFC00
+CONF="P1,Switches"
+CONF="P1O89,Coin Switch1,1C/1C,1C/2C,2C/1C,3C/1C"
+CONF="P1OA,Coin Switch2,1C/1C,2C/1C"
+CONF="P1OB,Lives,3,4"
+CONF="P1OC,Bonus Life,70K 200K 500K,100K 400K 800K"
+CONF="P1OD,Difficulty,Easy,Hard"
+CONF="P1OE,Demo Sounds,Off,On"
+CONF="P1OF,Cabinet,Cocktail,Upright"
