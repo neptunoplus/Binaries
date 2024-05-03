@@ -1,0 +1,10 @@
+[ARC]
+RBF=CCLIMBER
+MOD=26
+NAME=YAMATO
+DEFAULT=0x8000
+CONF="O89,Lives,3,4,5,6"
+CONF="OAC,Coinage,1C_1C,2C_1C,3C_1C,4C_1C,1C_2C,1C_3C,2C_3C,Free Play"
+CONF="OD,Bonus_Life,Every 30000,Every 50000"
+CONF="OE,Speed,Slow,Fast"
+CONF="OF,Cabinet,Cokctail,Upright"

@@ -1,0 +1,8 @@
+[ARC]
+RBF=CCLIMBER
+MOD=16
+NAME=RPATROL
+DEFAULT=0x1000
+CONF="O89,Coinage,1C_1C,1C_2C,2C_1C,Free Play"
+CONF="OAB,Lives,3,4,5,6"
+CONF="OC,Cabinet,Cocktail,Upright"
