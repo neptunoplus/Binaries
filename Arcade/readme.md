@@ -17,7 +17,7 @@ Arcades
 
 --  Crazy Climber Hardware
 
-* Big ong
+* Big Kong
 * Crazy Climber
 * Crazy Kong
 * Crazy Kong Part II
