@@ -1,0 +1,10 @@
+[ARC]
+RBF=BAGMAN
+MOD=1
+NAME=SBAGMAN
+DEFAULT=0xF600
+CONF="O89,Lives,5,4,3,2"
+CONF="OA,Coinage,2c/1cr,1c/1cr"
+CONF="OBC,Difficulty,Hardest,Hard,Medium,Easy"
+CONF="OD,Language,French,English"
+CONF="OE,Bonus,40000,30000"
