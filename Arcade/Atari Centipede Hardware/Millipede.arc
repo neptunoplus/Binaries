@@ -1,0 +1,20 @@
+[ARC]
+RBF=CENTIPED
+MOD=1
+NAME=MILLIPED
+DEFAULT=0x3000
+CONF="P1,Switches"
+CONF="P1O89,Language,English,German,French,Spanish"
+CONF="P1OAB,Bonus,0,0 1x,0 1x 2x,0 1x 2x 3x"
+CONF="P1OE,Credit minimum,1,2"
+CONF="P1OF,Coin Counters,1,2"
+CONF="P1OG,Millipede Head,Easy,Hard"
+CONF="P1OH,Beetle,Easy,Hard"
+CONF="P1OIJ,Lives,2,3,4,5"
+CONF="P1OKL,Bonus Life,12000,15000,20000"
+CONF="P1OM,Spider,Easy,Hard"
+CONF="P1ON,Starting Score Select,On,Off"
+CONF="P1OOP,Coinage,Free Play,1C_2C,1C_1C,2C_1C"
+CONF="P1OQR,Right Coin,*1,*4,*5,*6"
+CONF="P1OS,Left Coin,*1,*2"
+CONF="P1OTV,Bonus Coins,None,3cr/2c,5cr/4c,6cr/4c,6cr/5c,4cr/3c,Demo Mode"
