@@ -1,0 +1,5 @@
+[ARC]
+RBF=MCR2
+MOD=1
+NAME=TRON
+CONF="O8,Allow Continue,No,Yes"
