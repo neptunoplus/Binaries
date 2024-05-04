@@ -1,0 +1,8 @@
+[ARC]
+RBF=PACMAN
+MOD=4
+NAME=BIRDIY
+DEFAULT=0xE9FFFF00
+CONF="P1,Switches"
+CONF="P1OOP,Coinage,2c/1cr,1c/1cr,1c/2cr,Free Play"
+CONF="P1OQR,Lives,1,2,3,4"

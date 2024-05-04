@@ -1,0 +1,9 @@
+[ARC]
+RBF=PACMAN
+MOD=9
+NAME=EEEKKP
+DEFAULT=0xF3FFFF00
+CONF="P1,Switches"
+CONF="P1OOP,Lives,6,5,4,3"
+CONF="P1OQS,Difficulty,8(Hard),7,6,5,4,3,2,1(Easy)"
+CONF="P1OT,Demo Sounds,On,Off"

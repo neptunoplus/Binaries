@@ -1,0 +1,8 @@
+[ARC]
+RBF=PACMAN
+MOD=17
+NAME=NUMCRASH
+DEFAULT=0xF8FFFF00
+CONF="P1,Switches"
+CONF="P1OOP,Coinage,1c/1cr,2c/1cr,3c/1cr,4c/1cr"
+CONF="P1OQR,Lives,1,2,3,4"
