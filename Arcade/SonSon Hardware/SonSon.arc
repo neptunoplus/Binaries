@@ -1,0 +1,12 @@
+[ARC]
+RBF=SONSON
+MOD=0
+NAME=SONSON
+CONF="P1,Switches"
+CONF="P1O8B,Coinage,1C_1C,1C_2C,1C_3C,1C_4C,1C_5C,1C_6C,1C_7C,2C_1C,2C_3C,2C_5C,3C_1C,3C_2C,3C_4C,4C_1C,4C_3C,Free Play"
+CONF="P1OD,Demo Sounds,Off,On"
+CONF="P1OE,Service,Off,On"
+CONF="P1OGH,Lives,3,4,5,7"
+CONF="P1OJK,Bonus_Life,20000,30000,20k/80k/100k,30k/90k/120k"
+CONF="P1OLM,Difficulty,Easy,Normal,Hard,Very Hard"
+CONF="P1ON,Freeze,Off,On"
