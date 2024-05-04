@@ -1,0 +1,7 @@
+[ARC]
+RBF=DRUAGA
+MOD=1
+NAME=TODRUAGA
+CONF="OCD,Lives,3,2,1,5"
+CONF="OG,Freeze,Off,On"
+CONF="OR,Service Mode,Off,On"
