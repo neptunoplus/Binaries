@@ -1,0 +1,6 @@
+[ARC]
+RBF=DEFENDER
+MOD=1
+NAME=COLONY7
+CONF="OA,Lives,2,3"
+CONF="OB,Bonus,20k/40k(30k/50k),30k/50k(40k/70k)"
