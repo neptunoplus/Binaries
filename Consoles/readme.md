@@ -1,7 +1,6 @@
 
 # Console Cores
 
-Ports by @delgrom Jose Manuel https://github.com/delgrom/
 
 | Console Name       | Core Names        | Dual Ram | Core Notes                   |
 | ------------------ |:----------------: | -------- |:----------------------------:|
