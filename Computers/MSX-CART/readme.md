@@ -5,4 +5,5 @@
 
 -------------------------------
 Needed @antoniovillena Msx cartridge Addon https://antoniovillena.com/product/msx-cartridge-adapter/
+
 Use a dedicted SD.
