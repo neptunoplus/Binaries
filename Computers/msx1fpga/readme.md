@@ -1,6 +1,8 @@
 ## Msx1fga
 -------------
+
 ## Tribute to fbelavenuto & desubikado
+
 -------------
 #### Ported by @rampa069
 #### sources: https://github.com/BigMist/msx1fpga
@@ -13,6 +15,7 @@ This project is an MSX1 cloned in FPGA, with some parts of the OCM project.
 
 Specifications:
 
+* VDP F18a support
 * Multiple boards;
 * MSX1 50Hz or 60Hz;
 * RAM Mapper size configurable, depends on the board;
