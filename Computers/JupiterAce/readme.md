@@ -1,3 +1,3 @@
 ## Jupiter Ace
 
-### ported by @Kyp069 sources:  Unknown
+### Core make it from scracth by @Kyp069 
