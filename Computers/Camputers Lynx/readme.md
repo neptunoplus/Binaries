@@ -1,6 +1,6 @@
 ### Camputers Lynx
 
-by @kyp 
+by @kyp069
 
 Hint: 
 To load from tape...
