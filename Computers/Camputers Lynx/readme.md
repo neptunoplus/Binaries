@@ -1,6 +1,28 @@
 ### Camputers Lynx
 
-by @kyp069
+#### by @kyp069
+
+#### Requier Middleboard
+
+Para inicializar la controladora de disco
+
+XROM
+
+Directorio
+
+EXT DIR
+
+Cargar BASIC
+
+EXT LOAD "BASIC"
+
+Cargar Maquina
+
+EXT MLOAD "MAQUINA"
+
+También carga de cinta por el jack de audio e incluye un TZX player en el OSD (PageUp play, PageDown stop and rewind)
+
+Importante poner el nombre correcto del archivo para que cargue, no vale "" como en el Spectrum
 
 Hint: 
 To load from tape...
